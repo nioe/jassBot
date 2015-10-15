@@ -1,0 +1,14 @@
+{
+  "name": "jassBot",
+  "version": "1.0.0",
+  "description": "Game Night Hacked @ Bern - Writing a JassBot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "javascript-jass-bot": "0.0.7"
+  }
+}
